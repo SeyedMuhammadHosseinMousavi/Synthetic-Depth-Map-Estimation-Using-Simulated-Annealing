@@ -64,5 +64,6 @@ Simulated Annealing (SA) is an optimization technique that works by minimizing s
   - `2 SA Video to Normal.py`: Generates and enhances normal maps for video frames using simulated annealing.
 
 Simulated Annealing outperforms both Fuzzy Logic and ANFIS, producing more coherent results in terms of smoothness and consistency in depth and normal maps. This technique is particularly effective for complex scenes where depth transitions need to be smooth and realistic.
+
 ![Synthetic Depth Data Generation Using Simulated Annealing](https://github.com/user-attachments/assets/6b84074c-c1a8-4e6b-b105-e069cd09d02d)
 
