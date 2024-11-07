@@ -1,6 +1,6 @@
 # Synthetic Depth Data Generation Using Simulated Annealing (on Body Tracking Modality)
 This repository contains several Python scripts for enhancing depth and normal maps using three different techniques: **Fuzzy Logic**, **ANFIS (Adaptive Neuro-Fuzzy Inference System)**, and **Simulated Annealing (SA)**. Each technique is applied to both **single images** and **videos**, with Simulated Annealing (SA) showing superior results compared to the other methods.
-
+September 2024 / Lugano / Switzerland
 -The core of the algorithm relies on the **MiDaS model**, a pre-trained deep learning model designed for **depth estimation**, which generates depth maps from images or video frames.
 
 ## Overview
